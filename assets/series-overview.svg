@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Reasoning Distillation: Content, Focus, Guidance</title>
+<desc id="desc">DRP refines reasoning content; Rock Token investigates supervision value; TOPD improves trajectory guidance. Independent methods united by better student supervision.</desc>
+<rect width="1200" height="430" rx="24" fill="#F6F8FC"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="40" y="44" font-size="14" font-weight="700" letter-spacing="2" fill="#64748B">REASONING DISTILLATION SERIES</text>
+<text x="40" y="89" font-size="32" font-weight="700" fill="#14213D">Make teacher guidance useful to the student.</text>
+<text x="40" y="126" font-size="18" fill="#475569">Three complementary perspectives on the quality of reasoning supervision.</text>
+<rect x="40" y="161" width="350" height="204" rx="16" fill="#EFF6FF" stroke="#BFDBFE"/>
+<rect x="425" y="161" width="350" height="204" rx="16" fill="#F5F3FF" stroke="#DDD6FE"/>
+<rect x="810" y="161" width="350" height="204" rx="16" fill="#ECFDF5" stroke="#A7F3D0"/>
+<g font-size="14" font-weight="700" letter-spacing="1"><text x="64" y="193" fill="#2563EB">CONTENT · WHAT TO TEACH</text><text x="449" y="193" fill="#7C3AED">FOCUS · WHERE TO FOCUS</text><text x="834" y="193" fill="#047857">GUIDANCE · HOW TO GUIDE</text></g>
+<g font-size="32" font-weight="700" fill="#14213D"><text x="64" y="243">DRP</text><text x="449" y="243">Rock Token</text><text x="834" y="243">TOPD</text></g>
+<g font-size="18" fill="#475569"><text x="64" y="282">Decompose reasoning into skills.</text><text x="64" y="310">Prune redundant content.</text><text x="449" y="282">Study persistent token loss.</text><text x="449" y="310">Test its learning value.</text><text x="834" y="282">Look beyond individual tokens.</text><text x="834" y="310">Align near-future trajectories.</text></g>
+<g font-size="14" font-weight="700"><text x="64" y="343" fill="#2563EB">ACL 2026 FINDINGS</text><text x="449" y="343" fill="#7C3AED">NEURIPS 2026</text><text x="834" y="343" fill="#047857">2026 PREPRINT</text></g>
+<text x="40" y="402" font-size="16" fill="#64748B">Independent methods · Shared research question · Project-specific implementations</text>
+</g></svg>
